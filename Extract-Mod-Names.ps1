@@ -2,7 +2,7 @@
 $directory = ""
 
 # Output file for mod names
-$outputFile = ""
+$outputFile = "./mod-names.txt"
 
 # Array to collect all mod information
 $modInfoCollection = @()
